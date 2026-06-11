@@ -21,23 +21,23 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
-<a href='https://youtu.be/AIMVLV3XIV4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AIMVLV3XIV4/mqdefault.jpg' alt='La gente honesta también tiene derechos #estoico #pensamientos #reflexiones' /zz>
+<a href='https://youtu.be/avi4zcSdOI8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/avi4zcSdOI8/mqdefault.jpg' alt='Curso C++ Básicos de punteros 2025' /zz>
 </a>
-<a href='https://youtu.be/YeFUUqKPwAU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YeFUUqKPwAU/mqdefault.jpg' alt='Avanti Almafuerte #avanti #almafuerte' /zz>
+<a href='https://youtu.be/K88MAyetjac' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/K88MAyetjac/mqdefault.jpg' alt='Curso C++ Programación orientada a objetos (POO) - 2025' /zz>
 </a>
-<a href='https://youtu.be/9Gwf4uqmJEU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9Gwf4uqmJEU/mqdefault.jpg' alt='El arte abstracto es un fraude #arteabstracto #arte' /zz>
+<a href='https://youtu.be/SUe0HA5cXAY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SUe0HA5cXAY/mqdefault.jpg' alt='Curso C++ Proyecto batalla naval - 2025' /zz>
 </a>
-<a href='https://youtu.be/nqw7FnwzXrM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nqw7FnwzXrM/mqdefault.jpg' alt='Mañana saldrá el sol.. #pensamientos #desarrollopersonal #reflexionesdeldia #vida #menteinconsciente' /zz>
+<a href='https://youtu.be/Ky2iWLyCNyk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ky2iWLyCNyk/mqdefault.jpg' alt='Curso C++ Proyecto Adivina el número - 2025' /zz>
 </a>
-<a href='https://youtu.be/uUtbL0gMMSI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uUtbL0gMMSI/mqdefault.jpg' alt='Emociones sin reconocer #pensamientos #desarrollopersonal #reflexionesdeldia #meditacion #vida' /zz>
+<a href='https://youtu.be/MIAWEbxzDHs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MIAWEbxzDHs/mqdefault.jpg' alt='Curso C++ Introducción al lenguaje - 2025' /zz>
 </a>
-<a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
+<a href='https://youtu.be/XL0AOvybeNU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XL0AOvybeNU/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial completo' /zz>
 </a>
 </div>
 

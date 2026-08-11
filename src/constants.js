@@ -1,6 +1,6 @@
 export const YOUTUBE_WOTANCODE_CHANNEL_ID = 'UCwISu2hFg7EpOIZ8aV7iS6g'
 
-export const GITHUB_WOTANCODE_USERNAME = 'pedrovVril'
+export const GITHUB_WOTANCODE_USERNAME = 'pedroVril'
 
 export const NUMBER_OF = {
   YOUTUBE_VIDEOS: 6

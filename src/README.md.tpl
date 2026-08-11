@@ -47,17 +47,17 @@
 ![GitHub Views][profile_views_badge]
 
 <!-- Variables -->
-[github]: https://github.com/wotanCode
+[github]: https://github.com/pedroVril
 [youtube]: https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1
 [linkedin]: https://www.linkedin.com/in/pedro-yanez/
 [chess]: https://www.chess.com/member/pedroelhumano
 [lichess]: https://lichess.org/@/pedroelhumano
-[github_followers_badge]: https://img.shields.io/github/followers/wotanCode?style=social
-[github_stars_badge]: https://img.shields.io/github/stars/wotanCode?style=social
+[github_followers_badge]: https://img.shields.io/github/followers/pedroVril?style=social
+[github_stars_badge]: https://img.shields.io/github/stars/pedroVril?style=social
 [youtube_badge]: https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010
 [linkedin_badge]: https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010
 [youtube_badge_large]: https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010
 [linkedin_badge_large]: https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010
 [chess_badge]: https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010
 [lichess_badge]: https://img.shields.io/badge/-LICHESS-ffffff?style=flat-square&logo=Lichess&labelColor=101010
-[profile_views_badge]: https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20profile%20views
+[profile_views_badge]: https://komarev.com/ghpvc/?username=pedroVril&style=for-the-badge&color=red&label=Total%20profile%20views

@@ -3,15 +3,15 @@ import fetch from 'node-fetch'
 
 import {
   PLACEHOLDERS,
-  YOUTUBE_WOTANCODE_CHANNEL_ID,
+  YOUTUBE_PEDROVRIL_CHANNEL_ID,
   NUMBER_OF,
-  GITHUB_WOTANCODE_USERNAME
+  GITHUB_PEDROVRIL_USERNAME
 } from './constants.js'
 
 const { YOUTUBE_API_KEY } = process.env
 
 const getLatestYoutubeVideos = (
-  { channelId } = { channelId: YOUTUBE_WOTANCODE_CHANNEL_ID }
+  { channelId } = { channelId: YOUTUBE_PEDROVRIL_CHANNEL_ID }
 ) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${NUMBER_OF.YOUTUBE_VIDEOS}`
@@ -20,7 +20,7 @@ const getLatestYoutubeVideos = (
     .then((videos) => videos.items)
 
 const getGithubProfile = (
-  { userName } = { userName: GITHUB_WOTANCODE_USERNAME }
+  { userName } = { userName: GITHUB_PEDROVRIL_USERNAME }
 ) =>
   fetch(`https://api.github.com/users/${userName}`)
     .then((res) => res.json())
